@@ -1,0 +1,6 @@
+data/*
+act_data/*
+.DS_Store
+src/cred.py
+.ipynb_checkpoints
+src/__pycache__
