@@ -1,5 +1,6 @@
 data/*
 act_data/*
+viz/data/*
 .DS_Store
 src/cred.py
 .ipynb_checkpoints
